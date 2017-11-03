@@ -1,2 +1,4 @@
 # hello-world
-learning
+
+Hi friends! 
+Learning is so exciting :)
